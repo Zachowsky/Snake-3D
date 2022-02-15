@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1606489010 source:c:\users\pawe許desktop\moje materialy\semestr 5\grafika komputerowa\lab\lab1\876543\bmploader.cpp
+	"BMPLoader.h"
+
+1606489010 c:\users\pawe許desktop\moje materialy\semestr 5\grafika komputerowa\lab\lab1\876543\bmploader.h
+	<Windows.h>
+	<iostream>
+	<stdio.h>
+
+1611333963 source:c:\users\pawe許desktop\moje materialy\semestr 5\grafika komputerowa\lab\lab1\876543\main.cpp
+	<gl/glut.h>
+	<gl/freeglut.h>
+	<iostream>
+	<string>
+	<stdio.h>
+	<vector>
+	<time.h>
+	"BmpLoader.h"
+	"TextLoader.h"
+	"MAIN.h"
+
+1611330812 c:\users\pawe許desktop\moje materialy\semestr 5\grafika komputerowa\lab\lab1\876543\textloader.h
+	<Windows.h>
+	<iostream>
+	<stdio.h>
+
+1611331795 c:\users\pawe許desktop\moje materialy\semestr 5\grafika komputerowa\lab\lab1\876543\main.h
+	<iostream>
+
+1611330794 source:c:\users\pawe許desktop\moje materialy\semestr 5\grafika komputerowa\lab\lab1\876543\textloader.cpp
+	"TextLoader.h"
+	<gl/glut.h>
+	<gl/freeglut.h>
+
+1606489010 source:c:\users\pawe許desktop\moje materialy\semestr 5\grafika komputerowa\lab\3dengine\bmploader.cpp
+	"BMPLoader.h"
+
+1606489010 c:\users\pawe許desktop\moje materialy\semestr 5\grafika komputerowa\lab\3dengine\bmploader.h
+	<Windows.h>
+	<iostream>
+	<stdio.h>
+
+1611335328 source:c:\users\pawe許desktop\moje materialy\semestr 5\grafika komputerowa\lab\3dengine\main.cpp
+	<gl/glut.h>
+	<gl/freeglut.h>
+	<iostream>
+	<string>
+	<stdio.h>
+	<vector>
+	<time.h>
+	"BmpLoader.h"
+	"TextLoader.h"
+	"MAIN.h"
+
+1611330812 c:\users\pawe許desktop\moje materialy\semestr 5\grafika komputerowa\lab\3dengine\textloader.h
+	<Windows.h>
+	<iostream>
+	<stdio.h>
+
+1611331795 c:\users\pawe許desktop\moje materialy\semestr 5\grafika komputerowa\lab\3dengine\main.h
+	<iostream>
+
+1611330794 source:c:\users\pawe許desktop\moje materialy\semestr 5\grafika komputerowa\lab\3dengine\textloader.cpp
+	"TextLoader.h"
+	<gl/glut.h>
+	<gl/freeglut.h>
+
